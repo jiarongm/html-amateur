@@ -23,23 +23,29 @@
 </html>
 ```
 ##### 各種文字段落:
+```
 <p>文字段落</p>
 <p>段落間會有空白行隔開</p>
-<p>水平分割線<hr> </p>
+水平分割線<hr>
+```
+<hr>
 <h1>文字標題h1</h1>
 <h6>文字標題h6</h6>
+```
 <!--這是註解-->
-<em>斜體em</em>
- <mark>標記mark</mark>
- <strong>粗體strong</strong>
-<b>粗體 b</b>
-<i>斜體 i</i>
-<u>底線 u</u>
-<br>
+<em>斜體</em>
+<mark>標記</mark>
+<strong>粗體</strong>
+<b>粗體</b>
+<i>斜體</i>
+<u>底線</u>
+<br>換行
 <pre>原始文字
 排列
 </pre>
+```
 <section>
-vul3ru,6
+  標示HTML文件的組織架構
+![img](https://github.com/jiarongm/html-amateur/blob/main/%E6%A8%99%E7%A4%BAHTML%E6%96%87%E4%BB%B6%E7%9A%84%E7%B5%84%E7%B9%94%E6%9E%B6%E6%A7%8B.png?raw=true)
 </section>
 https://bookdown.org/tpemartin/webbasic/html.html
