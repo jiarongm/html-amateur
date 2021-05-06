@@ -60,10 +60,13 @@
   ### 圖檔的相對路徑與絕對路徑
   <hr><br>
   
-  ![img height="60" width="80"](https://github.com/jiarongm/html-amateur/blob/main/%E7%9B%B8%E5%B0%8D%E8%B7%AF%E5%BE%91.png?raw=true)<br>
+  ![img](https://github.com/jiarongm/html-amateur/blob/main/%E7%9B%B8%E5%B0%8D%E8%B7%AF%E5%BE%91.png?raw=true)<br>
   ##### .html >> 資料夾 >> img
   <b>絕對路徑:途徑-圖片網址</b><br>
   連結網路上圖片要注意有無侵害著作權<br>
+  <b>指定圖片寬度高度 height="" width=""</b>
+  <img src="https://polarr-ppe-assets.s3-us-west-1.amazonaws.com/onboarding/01_02_preview_2x.jpg" heught="80" width="100"><br>
+  
 
 
 https://bookdown.org/tpemartin/webbasic/html.html
