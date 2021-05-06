@@ -66,7 +66,8 @@
   連結網路上圖片要注意有無侵害著作權<br>
   <b>指定圖片寬度高度 height="" width=""</b>
   <img src="https://polarr-ppe-assets.s3-us-west-1.amazonaws.com/onboarding/01_02_preview_2x.jpg" heught="80" width="100"><br>
-  
+ #### 播放音訊
+ <audio src=""></audio>
 
 
 https://bookdown.org/tpemartin/webbasic/html.html
