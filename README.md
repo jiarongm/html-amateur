@@ -31,7 +31,9 @@
 <hr>
 <h1>文字標題h1</h1>
 <h6>文字標題h6</h6>
+<br>
 ```
+<html>
 <!--這是註解-->
 <em>斜體</em>
 <mark>標記</mark>
@@ -43,9 +45,25 @@
 <pre>原始文字
 排列
 </pre>
+</html>
 ```
-<section>
-  標示HTML文件的組織架構
+
+#### 標示HTML文件的組織架構
 ![img](https://github.com/jiarongm/html-amateur/blob/main/%E6%A8%99%E7%A4%BAHTML%E6%96%87%E4%BB%B6%E7%9A%84%E7%B5%84%E7%B9%94%E6%9E%B6%E6%A7%8B.png?raw=true)
-</section>
+<nav>navgation標記與文件相關的連結<br>
+<h2>加入圖片</h2>
+  src:需指定圖片檔檔名、途徑<br>
+  alt:關於圖片的文字描述
+  <img src="位置" alt="描述"> <br>
+  
+  ![img](https://github.com/jiarongm/html-amateur/blob/main/%E5%8A%A0%E5%85%A5%E5%9C%96%E7%89%87.png?raw=true)<br>
+  ### 圖檔的相對路徑與絕對路徑
+  <hr><br>
+  
+  ![img height="60" width="80"](https://github.com/jiarongm/html-amateur/blob/main/%E7%9B%B8%E5%B0%8D%E8%B7%AF%E5%BE%91.png?raw=true)<br>
+  ##### .html >> 資料夾 >> img
+  <b>絕對路徑:途徑-圖片網址</b><br>
+  連結網路上圖片要注意有無侵害著作權<br>
+
+
 https://bookdown.org/tpemartin/webbasic/html.html
